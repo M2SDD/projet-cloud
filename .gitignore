@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# PDF projet
+/Projet_data_M2_BDD.pdf
