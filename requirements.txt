@@ -6,3 +6,5 @@ matplotlib
 seaborn
 kagglehub[pandas-datasets]
 azure-storage-blob
+openai 
+azure-ai-textanalytics 

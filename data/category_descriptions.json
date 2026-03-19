@@ -1,0 +1,82 @@
+{
+    "1": {
+        "name": "\u00c9lectronique de luxe",
+        "description": "D\u00e9couvrez notre s\u00e9lection d'appareils \u00e9lectroniques haut de gamme, con\u00e7us pour les amateurs de technologie exigeants."
+    },
+    "2": {
+        "name": "Accessoires de mode",
+        "description": "Ajoutez une touche d'\u00e9l\u00e9gance \u00e0 votre style avec nos accessoires tendance, parfaits pour les hommes modernes."
+    },
+    "3": {
+        "name": "\u00c9quipements sportifs",
+        "description": "Pr\u00e9parez-vous \u00e0 franchir vos limites avec notre gamme d'\u00e9quipements sportifs de qualit\u00e9, id\u00e9ale pour les athl\u00e8tes en herbe."
+    },
+    "4": {
+        "name": "Gadgets pratiques",
+        "description": "Simplifiez votre quotidien avec nos gadgets innovants, con\u00e7us pour rendre la vie plus facile et amusante."
+    },
+    "5": {
+        "name": "V\u00eatements d\u00e9contract\u00e9s",
+        "description": "Profitez du confort et du style avec notre collection de v\u00eatements d\u00e9contract\u00e9s pour un look moderne et d\u00e9tendu."
+    },
+    "6": {
+        "name": "Montres haut de gamme",
+        "description": "Alliez \u00e9l\u00e9gance et fonctionnalit\u00e9 avec nos montres de luxe, le choix parfait pour ceux qui appr\u00e9cient les belles choses."
+    },
+    "7": {
+        "name": "Produits de beaut\u00e9",
+        "description": "Prenez soin de vous avec notre s\u00e9lection de produits de beaut\u00e9 premium, con\u00e7us pour sublimer votre charme naturel."
+    },
+    "8": {
+        "name": "Chaussures tendance",
+        "description": "Marchez avec style gr\u00e2ce \u00e0 notre gamme de chaussures tendance, alliant confort et allure pour tous les jours."
+    },
+    "9": {
+        "name": "Bijoux de cr\u00e9ateurs",
+        "description": "\u00c9blouissez avec notre collection de bijoux de cr\u00e9ateurs, parfaits pour ajouter une touche unique \u00e0 votre style."
+    },
+    "10": {
+        "name": "Mat\u00e9riel informatique",
+        "description": "Boostez votre productivit\u00e9 avec notre s\u00e9lection de mat\u00e9riel informatique performant, id\u00e9al pour les professionnels exigeants."
+    },
+    "11": {
+        "name": "Articles de maison",
+        "description": "Transformez votre int\u00e9rieur avec nos articles de maison \u00e9l\u00e9gants, alliant design et fonctionnalit\u00e9."
+    },
+    "12": {
+        "name": "Petits accessoires",
+        "description": "Compl\u00e9tez votre look avec nos petits accessoires pratiques et styl\u00e9s, parfaits pour les d\u00e9tails qui font la diff\u00e9rence."
+    },
+    "13": {
+        "name": "Produits de consommation courante",
+        "description": "D\u00e9couvrez nos produits de consommation courante, alliant qualit\u00e9 et prix abordables pour le quotidien."
+    },
+    "14": {
+        "name": "\u00c9quipement audiovisuel",
+        "description": "Plongez dans l'univers du son et de l'image avec notre \u00e9quipement audiovisuel haut de gamme pour des exp\u00e9riences immersives."
+    },
+    "15": {
+        "name": "\u00c9lectronique portable",
+        "description": "Restez connect\u00e9 avec notre s\u00e9lection d'\u00e9lectronique portable, id\u00e9ale pour les professionnels en d\u00e9placement."
+    },
+    "16": {
+        "name": "Accessoires de voyage",
+        "description": "Voyagez en toute s\u00e9r\u00e9nit\u00e9 avec nos accessoires de voyage pratiques et styl\u00e9s, pens\u00e9s pour le globe-trotteur moderne."
+    },
+    "17": {
+        "name": "Instruments de musique",
+        "description": "Exprimez votre cr\u00e9ativit\u00e9 avec notre collection d'instruments de musique, parfaite pour les musiciens passionn\u00e9s."
+    },
+    "18": {
+        "name": "Articles de sport \u00e0 petit prix",
+        "description": "D\u00e9marrez votre aventure sportive sans vous ruiner gr\u00e2ce \u00e0 nos articles de sport \u00e0 prix abordables."
+    },
+    "19": {
+        "name": "Produits d\u00e9riv\u00e9s",
+        "description": "Affichez votre passion avec nos produits d\u00e9riv\u00e9s uniques, id\u00e9aux pour les fans de culture pop."
+    },
+    "20": {
+        "name": "Gadgets \u00e0 petit prix",
+        "description": "D\u00e9clencheur de sourires et de surprises, explorez nos gadgets amusants et abordables pour \u00e9gayer votre quotidien."
+    }
+}
