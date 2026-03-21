@@ -208,3 +208,8 @@ __marimo__/
 
 # PDF projet
 /Projet_data_M2_BDD.pdf
+
+# Rapport
+rapport/*
+!rapport/*.tex
+!rapport/*.pdf
