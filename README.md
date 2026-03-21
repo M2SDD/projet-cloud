@@ -10,6 +10,18 @@ Ce projet met en œuvre une chaîne complète de traitement de données dans l'�
 
 ---
 
+## Livrables
+
+| Livrable | Lien |
+|---|---|
+| Notebook d'exploration & ingestion | [1-exploration_ingestion.ipynb](1-exploration_ingestion.ipynb) |
+| Notebook d'enrichissement par Azure AI | [2-azure_ai.ipynb](2-azure_ai.ipynb) |
+| Dashboard Power BI | [3-dataviz.pbix](3-dataviz.pbix) |
+| Rapport PDF | [rapport/rapport.pdf](rapport/rapport.pdf) |
+
+
+---
+
 ## Architecture du projet
 
 ```
@@ -35,7 +47,7 @@ Captures d'écran : [pictures/1-ingestion/](pictures/1-ingestion/)
 
 ---
 
-### 2. Enrichissement par IA Azure (`2-azure_ai.ipynb`)
+### 2. Enrichissement par Azure AI (`2-azure_ai.ipynb`)
 
 Pour enrichir un dataset purement transactionnel avec de la donnée textuelle :
 
