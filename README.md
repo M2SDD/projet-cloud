@@ -119,8 +119,8 @@ ProjetCloud/
 
 ```bash
 # Cloner le dépôt
-git clone <url-du-repo>
-cd ProjetCloud
+git clone https://github.com/M2SDD/projet-cloud.git
+cd projet-cloud
 
 # Créer l'environnement virtuel
 python -m venv .venv
